@@ -1,0 +1,192 @@
+
+/* login - dang nhap */
+.login {
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.login-box {
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 20px;
+    margin-bottom: 150px;
+}
+
+.login-left-img img {
+    width: 100%;
+    height: 610px;
+    object-fit: cover;
+
+}
+
+.login-right{
+    padding: 15px;
+}
+.login-right-title {
+    text-align: center;
+
+}
+
+.login-right-title h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+.login-right-title p {
+    width: 100%;
+    font-size: 1rem;
+    padding-bottom: 15px;
+}
+
+.login-right-input {
+    text-align: center;
+}
+
+.login-right-input-nickname h2 {
+    text-align: left;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.login-right-input-password h2 {
+    text-align: left;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.login-right-input-nickname span {
+    color: red;
+}
+
+.login-right-input-password span {
+    color: red;
+}
+
+.login-right-input input {
+    width: 100%;
+    height: 45px;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+.login-right-policy {
+    font-size: 1.1rem;
+}
+
+.login-right-policy input {
+    margin-right: 10px;
+}
+
+.login-right-policy span a {
+    color: red;
+}
+
+.login-right-button {
+    margin-top: 25px;
+}
+
+.login-right-button button {
+    width: 500px;
+    background-color: #81C8C2;
+    color: white;
+    font-weight: 800;
+    height: 50px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.login-right-button button:hover {
+    background-color: #ff6666;
+}
+
+.login-right-or {
+    text-align: left;
+    margin-top: 15px;
+    font-size: 1.1rem;
+}
+
+.login-right-or a {
+    text-decoration: none;
+    color: black;
+}
+
+.login-right-or a:hover {
+    transition: 0.7s ease;
+    color: red;
+}
+
+.login-right-button-facebook button {
+    width: 500px;
+    border:1px solid white;
+    background-color: #039BE5;
+    color: white;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.login-right-button-facebook button p,span{
+    padding-top: 15px;
+}
+
+.login-right-button-facebook img {
+    padding-top: 1px;
+    padding-left: 10px;
+    height: 35px;
+    width: 45px;
+}
+
+.login-facebook {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.login-facebook p {
+    margin-left: 110px;
+}
+
+.login-facebook span {
+    font-weight: 800;
+}
+
+.login-right-if {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.login-right-if p {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.login-right-if a {
+    color: #81C8C2;
+}
+
+
+.register-right-button button {
+    border:1px solid white;
+    width: 100%;
+    background-color: #00ABC5;
+    color: white;
+    font-weight: 600;
+    height: 50px;
+    border-radius: 10px;
+    transition: 0.7s ease;
+}
+.register-right-button button:hover {
+    background-color: white;
+    color:black;
+    transition: 0.7s ease;
+    border: 1px solid black;
+}
+

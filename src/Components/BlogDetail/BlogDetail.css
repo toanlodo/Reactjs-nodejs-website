@@ -1,0 +1,31 @@
+/* blogDetail - */
+.blogDetail{
+    margin-top: 30px;
+}
+.blogDetail .blogDetail-widget{
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+.blogDetail .blogDetail-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.blogDetail .blogDetail-content-heading h5{
+    margin-top: 15px;
+    font-size: 1.5rem;
+}
+.blogDetail .blogDetail-content-bottom p{
+    margin: 30px 0px;
+    font-size: 1.3rem;
+
+}
+.blogDetail .blogDetail-content-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.blogDetail .blogDetail-content-moretext{
+    line-height: 2rem;
+    font-size: 1.3rem;
+}

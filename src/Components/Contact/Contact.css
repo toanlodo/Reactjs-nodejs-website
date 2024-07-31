@@ -1,0 +1,126 @@
+/* contact */
+
+.contact{
+    margin-top: 15px;
+}
+.contact .container{
+    border-radius: 10px;
+    background-color: white;
+    padding: 15px;
+}
+.contact-box-left-heading-title h3{
+    font-weight: 450;
+}
+.contact-box-left-heading-text p{
+    font-weight:350;
+    font-size: 1.8rem;
+}
+.contact-box-left-heading{
+    border-bottom: 1px solid rgb(228, 228, 228);
+    margin-bottom: 30px;
+}
+.contact-box-left-bottom-title p{
+    color: rgb(89, 89, 89);
+    font-size: 0.9rem;
+    letter-spacing: 0.01px;
+}
+
+.contact-box-left-bottom-text span{
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+.contact-box-form-flex-content span{
+    font-weight: 650;
+    font-size: 0.9rem;
+}
+.contact-box-form-flex-content{
+    margin-right: 15px;
+}
+.contact-box-form-flex-content input{
+    padding: 8px;
+    border-radius: 15px;
+    border: 1px solid rgb(213, 213, 213);
+    width: 280px;
+    font-size: 0.8rem;
+}
+
+.contact-box-form-flex-content-span{
+    margin-bottom: 15px;
+}
+.contact-box-left-bottom-form-name{
+    margin-bottom: 30px;
+}
+.contact-box-left-bottom-form-email span{
+    font-weight: 650;
+    font-size: 0.9rem;
+}
+
+.contact-box-form-content-span {
+    font-weight: 650;
+    font-size: 0.9rem;
+}
+.contact-box-form-content-input input{
+    padding: 8px;
+    border-radius: 15px;
+    border: 1px solid rgb(213, 213, 213);
+    width: 92.8%;
+    font-size: 0.8rem;
+}
+.contact-box-left-bottom{
+    margin-bottom: 40px;
+}
+.contact-box-left-bottom-form-email{
+    margin-bottom: 30px;
+}
+.contact-box-form-content-span{
+    margin-bottom: 15px;
+}
+.contact-box-form-content-input textarea{
+    padding: 8px;
+    border-radius: 15px;
+    border: 1px solid rgb(213, 213, 213);
+    width: 92.8%;
+    font-size: 0.8rem;
+    height: 250px;
+}
+
+.contact-box-left-bottom-form-button{
+    margin-top: 15px;
+}
+.contact-box-left-bottom-form-button button{
+    background-color: #00ABC5;
+    border: 0;
+    border-radius: 20px;
+    width: 80px;
+    color: white;
+    font-weight:700;
+    padding: 10px;
+    transition: 0.5s ease;
+}
+.contact-box-left-bottom-form-button button:hover{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    transition: 0.5s ease;
+}
+
+.contact-box-right-title{
+    margin: 30px 0px;
+}
+.contact-box-right-title h4{
+    font-weight: 400;
+    border-bottom: 2px solid #00ABC5;
+    width: 190px;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+}
+.contact-box-right-text p{
+    margin-bottom: 0px;
+}
+.contact-box-right-text{
+    margin: 30px 0px;
+}
+.contact-box-right-time-span{
+    font-weight: 600;
+    padding-bottom: 15px;
+}

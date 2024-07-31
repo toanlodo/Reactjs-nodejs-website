@@ -1,0 +1,126 @@
+/* 
+/* cart */
+
+.cart {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.cart .cart-box {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.cart .cart-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.cart .cart-table th, .cart-table td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.cart .cart-table th {
+    background-color: #f4f4f4;
+}
+
+.cart .product-image {
+    width: 50px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.cart tfoot {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+.cart .total-label {
+    text-align: right;
+}
+
+.cart-table-header{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 15px;
+    background-color: #00ABC5;
+}
+.cart .productDetail-quantity-number{
+    border: 1px solid rgb(216, 216, 216);
+    padding: 0px;
+    width: 90%;
+}
+.cart .productDetail-quantity-number p{
+    padding: 20px 20px 10px 20px;
+}
+.cart .productDetail-quantity-content{
+    padding-top: 5px;
+    cursor: pointer;
+}
+
+.cart .cart-productname {
+    padding-top: 20px;
+    width: 50%;
+}
+.empty-cart {
+    text-align: center;
+    padding: 50px;
+    font-size: 1.2rem;
+    color: #555;
+}
+.cart-thanhtoan{
+    width: 90%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    margin-top: 10px;
+    background-color: #00ABC5;
+    transition: 0.7s ease;
+}
+.cart-thanhtoan:hover{
+    background-color: white;
+    color: black;
+    transition: 0.7s ease;
+}
+/* info cart buyer */
+.cart-info{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: 30px;
+
+}
+.cart-info-title h1{
+    text-align: center;
+}
+
+.cart-info-content-box{
+    margin-bottom: 20px;
+}
+.cart-info-title p{
+font-size: 1.2rem;   
+}
+.cart-info-input input{
+    width: 500px;
+    padding: 10px;
+    border:1px solid rgb(221, 221, 221);
+    border-radius: 10px;
+}
+.cart-info-input textarea{
+    width: 500px;
+    padding: 10px;
+    border:1px solid rgb(221, 221, 221);
+    border-radius: 10px;
+    height: 200px;
+}
+.cart-info-box{
+    margin-top: 10px;
+    border: 1px solid #b7ced2;
+    padding:20px 0px 0px 30px;
+    border-radius: 15px;
+}

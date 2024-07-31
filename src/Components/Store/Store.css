@@ -1,0 +1,23 @@
+/* store */
+.store{
+    margin-top: 15px;
+}
+.store .container{
+    background-color: white;
+    padding: 15px;
+}
+.store-box-img img{
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+}
+.store-box-title h5{
+    font-size: 3rem;
+    margin-top: 10px;
+}
+.store-box-text p{
+    margin:10px 0px;
+}
+.store-box-text span{
+    font-weight: 600;
+}

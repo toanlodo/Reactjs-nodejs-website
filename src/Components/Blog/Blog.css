@@ -1,0 +1,110 @@
+/* blog */
+.blog .smallHead{
+    margin-bottom: 20px;
+}
+.blogDetail .smallHead{
+    margin-bottom: 15px;
+}
+.blog-widget{
+    margin-top: 40px;
+}
+.blog-box{
+    margin-bottom: 50px;
+}
+.blog-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.blog-date p{
+    font-size: 0.8rem;
+    margin-bottom: 5px;
+}
+.blog-title a{
+    text-decoration: none;
+    color: black;
+    transition: 0.7s ease;
+}
+.blog-title a:hover{
+    color: #00ABC5;
+    transition: 0.7s ease;
+}
+.blog-title h3{
+    font-size: 2.5rem;
+}
+.blog-btn .btn:hover {
+    background-color: #F3F6FB;
+    transition: 0.7s ease;
+    color: black;
+}
+.blog-btn .btn {
+    border-radius: 10px;
+    background-color: #00ABC5;
+    color: white;
+    font-weight: 600;
+    transition: 0.7s ease;
+}
+.blog-btn button{
+    padding: 10px 30px 10px 30px;
+}
+
+
+/* blog - tag */
+.blogTags{
+    margin-top: 50px;
+}
+.blogRight-title span{
+    font-weight: 600;
+    font-size: 1.3rem;
+}
+.blogTags-content{
+    margin-top: 5px;
+}
+.blogTags-text{
+    transition: 0.5s ease;
+}
+.blogTags-content p {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    display: inline-block;
+    margin-right: 10px; 
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border: 1px solid rgb(230, 230, 230); 
+    border-radius: 7px; 
+    color: grey; 
+    transition: 0.5s ease;
+}
+
+.blogTags-text a :hover{
+    border: none;
+    transition: 0.5s ease;
+    background-color: #00ABC5;
+    color: white;
+}
+
+.blogFollow{
+    margin-top: 50px;
+}
+
+.blogFollow-img{
+    margin-top: 15px;
+}
+.blogFollow-img a{
+    text-decoration: none;    
+}
+.blogFollow-img i{
+    padding-right:15px;
+}
+.blogFollow-img i:hover{
+    color: rgb(196, 13, 13);
+    transition: 0.5s ease;
+}
+.blogImg{
+    margin-top: 30px;
+}
+.blogImg-img img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}

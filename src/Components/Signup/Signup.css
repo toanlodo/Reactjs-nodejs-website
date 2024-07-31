@@ -1,0 +1,136 @@
+/* REGISTER - DANG KY */
+.register {
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.register-box {
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 20px;
+    margin-bottom: 150px;
+}
+
+.register-left-img img {
+    width: 100%;
+    height:700px;
+    object-fit: cover;
+
+}
+.register-right{
+    padding: 15px;
+}
+.register-right-title {
+    text-align: center;
+}
+
+.register-right-title h2 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+
+.register-right-title p {
+    width: 100%;
+    font-size: 1.1rem;
+    padding-bottom: 15px;
+    text-align: center;
+
+}
+
+.register-right-input {
+    text-align: center;
+}
+
+.register-right-input input {
+    width: 500px;
+    height: 45px;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 9px;
+}
+
+.register-right-policy a {
+    text-decoration: none;
+}
+
+.register-right-policy span a {
+    color: red;
+}
+
+.register-right-button {
+    margin-top: 25px;
+}
+
+.register-right-button input {
+    width: 500px;
+    background-color: #81C8C2;
+    color: white;
+    font-weight: 800;
+    height: 50px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.register-right-button input:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    transition: 0.7s ease;
+}
+
+.register-right-or {
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.register-right-button-facebook button {
+    width: 500px;
+    background-color: #039BE5;
+    color: white;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.register-right-button-facebook img {
+    padding-top: 1px;
+    padding-left: 10px;
+    height: 35px;
+    width: 45px;
+}
+
+.register-facebook {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.register-facebook p {
+    margin-left: 110px;
+}
+
+.register-facebook span {
+    font-weight: 800;
+}
+
+.register-right-if {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.register-right-if p {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.register-right-if a {
+    color: #81C8C2;
+}
+
+.register-right-policy p{
+    text-align: center;
+    font-size: 0.9rem;
+}

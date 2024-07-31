@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: white;
+}
+.open-sans {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 00;
+}
+
+.sedgwick-ave-regular {
+    font-family: "Sedgwick Ave", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-condensed {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:"wdth"100px;
+}
+
+/* nav - header */
+
+.navbar{
+    height: 100px;
+}
+/* nav */
+
+/* search */
+
+.navbar-search-img {
+    margin-right: 5px;
+    margin-top: 20px;
+}
+
+.navbar-search-img img {
+    width: 40px;
+}
+
+.navbar-search-content-phone {
+    padding-top: 15px;
+}
+
+.navbar-search-content-gmail {
+    margin-top: -20px;
+}
+
+.navbar-search-input input{
+    border: 1px solid rgb(231, 231, 231);
+    padding: 8px;
+    width: 250px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.navbar-search-input button{
+    background-color: #00ABC5;
+    padding-right: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.navbar-search {
+    flex-shrink: 1;
+}
+
+.navbar-brand img {
+    width: 250px;
+    height: 65px;
+    margin-left: -40px;
+}
+
+
+
+.navul {
+    background-color: #00ABC5;
+}
+
+.nav-link {
+    color: black;
+}
+
+/* search */
+
+.search input {
+    width: 450px;
+    margin-left: 150px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    padding: 10px 15px 10px 15px;
+}
+
+.search img {
+    background-color: rgb(38, 38, 38);
+    border-bottom: 1px solid grey;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    padding-right: 30px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+.search img:hover {
+    background-color: black;
+}
+
+/* cart */
+.header-cart {
+    padding-top: 10px;
+}
+
+.cart-header .cart-img {
+    padding-left: 50px;
+}
+
+.header-cart p {
+    color: white;
+    padding-top: 3px;
+}
+
+/* login-addtocart */
+.navbar-login-addtocart{
+    width: 100px;
+}
+.navbar-login-addtocart .cart{
+    margin-left: 50px;
+}
+.cart-quantity{
+    color: white;
+    margin-top: 20px;
+    margin-left: -15px;
+}
+.cart-img img{
+    width: 36px;
+}
+.cart-quantity-number{
+    height: 5px;
+}
+.cart-quantity p{  
+    background-color: black;
+    padding:4px;
+    border-radius:150px;
+}
