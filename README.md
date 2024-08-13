@@ -1,8 +1,9 @@
-# React + Vite
+# ReactJs - NodeJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi, đây là project của Lâm Chấn Toàn,
 
-Currently, two official plugins are available:
+Để chạy project, hãy mở terminal của folder cha và chạy lệnh: npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Để chạy database, hãy vào folder server, mở terminal và chạy lệnh: node server.js
+
+    
