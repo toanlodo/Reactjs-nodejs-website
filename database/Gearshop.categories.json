@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "669510dd4e315bb182efcd52"
+  },
+  "id": 1,
+  "name": "Laptop",
+  "images": "prodLap1.png"
+},
+{
+  "_id": {
+    "$oid": "669510f84e315bb182efcd53"
+  },
+  "id": 2,
+  "name": "Tai nghe",
+  "images": "prodHP2.png"
+},
+{
+  "_id": {
+    "$oid": "669510fa4e315bb182efcd54"
+  },
+  "id": 3,
+  "name": "Chuột",
+  "images": "prodMouse3.png"
+},
+{
+  "_id": {
+    "$oid": "669510fb4e315bb182efcd55"
+  },
+  "id": 4,
+  "name": "Màn hình",
+  "images": "prodScreen5.png"
+},
+{
+  "_id": {
+    "$oid": "669510fd4e315bb182efcd56"
+  },
+  "id": 5,
+  "name": "Bàn phím",
+  "images": "prodKB5.png"
+}]

@@ -1,0 +1,77 @@
+/* useraccount */
+.tnr{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.useraccount-box-left-title{
+    margin-bottom: 20px;
+}
+
+.useraccount-box{
+    background-color: white;
+    margin-top: 30px;
+    height: auto;
+    padding: 50px;
+}
+.useraccount-box .row{
+    border-top:1px solid rgb(228, 228, 228);
+
+}
+.useraccount-box .col-4{
+    border-right: 1px solid rgb(228, 228, 228);
+    padding-top: 50px;
+}
+.useraccount-box .col-8{
+    padding-top: 50px;
+}
+.useraccount-box-left-content{
+    margin-top: 0px;
+}
+.useraccount-box-left-title span{
+    font-weight: 700;
+    font-size: 1.3rem;
+    margin-left: 5px;
+}
+.useraccount-box-right-content-form{
+   padding: 0 10px;
+}
+.useraccount-box-right-content-form-box{
+    margin-bottom: 25px;
+}
+.useraccount-box-right-content-form-box-input{
+    width: 100%;
+
+}
+.useraccount-box-right-content-form-box-input input{
+    background-color: rgb(247, 247, 247);
+    border: 1px solid rgb(228, 228, 228);
+    border-radius: 5px;
+    padding: 8px;
+    width: 90%;
+}
+.useraccount-box-left-content p{
+    margin-top: 10px;
+    margin-left:10px;
+    font-size: 1.1rem;
+    font-weight:500;
+}
+.useraccount-box-right-content-form-box-input label{
+    margin-bottom: 5px;
+}
+.useraccount-box-right-button{
+    margin-top: 50px;
+}
+.useraccount-box-right-button button{
+    border: none;
+    padding: 10px 80px;
+    font-weight: 500;
+    border-radius: 10px;
+    background-color: #00ABC5;
+    color: white;
+    transition: 0.5s ease;
+}
+.useraccount-box-right-button button:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    transition: 0.5s ease;
+}

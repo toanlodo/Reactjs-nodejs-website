@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "66a4a6dacdbe71fa7acb6081"
+  },
+  "fullname": "Lâm Chấn Toàn",
+  "id": 1,
+  "password": "chantoan0202",
+  "username": "toanlodo",
+  "email": "toanlcps34413@fpt.edu.vn"
+},
+{
+  "_id": {
+    "$oid": "66a4b64b8bc7c5297e86ee29"
+  },
+  "username": "toanlodo0202",
+  "password": "bacxiu2224",
+  "email": "lamchantoan@gmail.com",
+  "__v": 0,
+  "address": "224 Phạm Văn Chí",
+  "phone": "090472825253",
+  "fullname": "Lâm Chấn Toàn"
+},
+{
+  "_id": {
+    "$oid": "66b2c8e90cef4c4f848428d0"
+  },
+  "username": "hoangkhung",
+  "password": "hoang12",
+  "email": "hoangdam@gmail.com",
+  "__v": 0
+}]

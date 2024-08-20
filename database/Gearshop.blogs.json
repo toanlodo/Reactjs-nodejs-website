@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "669a2dc5716b5258fdfed2b5"
+  },
+  "date": "02-02-2024",
+  "id": 1,
+  "images": "blog1.jpg",
+  "moretext": "Nấc 1: Khởi động chuột ở chế độ tiết kiệm pin (Không lên led RGB)\n                                                Nấc 2: Khởi động chuột ở chế độ thường (Có lên led RGB)\n                                                Cắm USB 2.4G vào cổng USB của máy tính.\n                                                Chuột đã kết nối ở chế độ USB Receiver 2.4Ghz\n                                                Nhấn giữ nút DPI để chuyển qua chế độ Bluetooth, đèn báo Bluetooth sẽ nằm phía dưới chuột (bên dưới serial của chuột).\n                                                Chế độ bluetooth sẽ nhớ được 2 thiết bị, hiển thị bằng màu xanh dương và xanh lá.\n                                                Lưu ý để chuyển lại chế độ 2.4G thì chỉ cần nhấn giữ để đèn báo qua màu đỏ.\n                                                Màu xanh Dương : Bluetooth 1\n                                                Màu xanh lá : Bluetooth 2\n                                                Màu đỏ : USB Receiver 2.4G",
+  "name": "Hướng dẫn kết nối chuột gaming E-Dra EM623W thông qua Wireless 2.4Ghz và Bluetooth",
+  "relatedimages": [
+    "blog1related1.jpg",
+    "blog1related2.jpg"
+  ],
+  "text": "Dòng chuột Gaming E-Dra được nhiều khách hàng quan tâm nhất – không chỉ vì giá rẻ mà còn độ hoàn thiện cao",
+  "textheading": "Sản phẩm E-Dra EM623W đang là dòng chuột gaming không dây được nhiều quan tâm nhất trong thời điểm hiện tại. Dòng chuột gaming E-Dra với mức giá cực kì phải chăng, nằm trong tầm giá dưới 300K với rất nhiều công nghệ nổi bật và đặc biệt là khả năng kết nối không dây tới 2 chế độ"
+},
+{
+  "_id": {
+    "$oid": "669a2ee4716b5258fdfed2b8"
+  },
+  "date": "15-05-2024",
+  "id": 2,
+  "images": "blog2.jpg",
+  "moretext": "Được xem là mẫu chuột hủy diệt SuperLight – Mẫu chuột không dây đến từ nhà Logitech với form cầm đối xứng, phù hợp cho đa dạng kiểu cầm, nhưng đặc biệt và phù hợp nhất vẫn là form cầm Claw Grip hoặc Finger Grip.\n\nĐược tinh giản hết mức tối đa, để giúp chuột thực hiện đúng mục đích chính của minh. Số lượng nút bấm cũng tương đương trên cả 2 mẫu sản phẩm Pulsar vs Endgame Gear, mặt trên được làm tinh gọn và tỉ mỉ hơn, bao gồm các nút bấm cơ bản nhất: chỉ có chuột trái phải, con lăn, bên cạnh có 2 nút back và forward\nThiết kế nút bấm của pulsar có phần lõm vào ở 2 đầu ngón tay, trong khi đó Endgame thì tròn đều theo thiết kế chung của chuột.",
+  "name": "Endgame Gear XM2we vs Pulsar X2 Wireless – Đâu mới là mẫu chuột “SuperLight Killer” chuẩn nhất ?\n",
+  "relatedimages": [
+    "blog2related1.jpg",
+    "blog2related2.jpg"
+  ],
+  "text": "Ngoại hình thon gọn và thiết kế bắt mắt",
+  "textheading": "Endgame Gear XM2we vs Pulsar X2 Wireless được xem là 2 “siêu phẩm” – mệnh danh là “SuperLight Killer” khi so sánh với một sản phẩm nổi tiếng từ nhà Logitech. Nhưng không phải tự nhiên mà 2 mẫu chuột lại được đặt cho một biệt danh “mỹ miều” như nhiều anh em cả trong nước và nước ngoài bàn luận thì cùng xem qua tại Gearshop để hiểu về 2 em này nhé.\n"
+},
+{
+  "_id": {
+    "$oid": "669a2ee6716b5258fdfed2b9"
+  },
+  "date": "22-06-2024",
+  "id": 3,
+  "images": "blog3.png",
+  "moretext": "ViewSonic sẽ kiểm tra và liên hệ gửi quà tới bạn trong 10 ngày làm việc (ngoại trừ thứ 7 & Chủ nhật).\nChương trình không áp dụng đồng thời với các chương trình khuyến mãi khác.\nQuà tặng không có giá trị quy đổi thành tiền mặt hoặc các giá trị khác tương đương.\nHóa đơn/ phiếu thu/ phiếu xuất kho phải có con dấu của cửa hàng bán lẻ.\nChương trình chỉ dành cho khách hàng mua lẻ từ cửa hàng, tất cả hóa đơn từ nhà phân phối đều không được tham gia chương trình khuyến mãi này.\nDung lượng hình ảnh hóa đơn tải lên hệ thống <1Mb.\nTrong trường hợp cần thiết nhằm bảo đảm quyền lợi khách hàng, phía ViewSonic sẽ cần thêm những thông tin khác để xác định khách mua hàng là chính xác như: hóa đơn đỏ, giấy tờ tùy thân có ảnh đại diện…\nTất cả phần quà trong Chương trình khuyến mãi đều được bảo hành chính hãng 24 tháng.\nMọi góp ý hay thắc mắc khác về chương trình, xin vui lòng liên hệ Gearshop để được hỗ trợ",
+  "name": "Chương trình khuyến mãi màn hình Viewsonic 2023 – Mua 1 tặng 1\n",
+  "relatedimages": [
+    "blog3.png"
+  ],
+  "text": "Nội dung chương trình khuyến mãi:\n",
+  "textheading": "Mua màn hình gaming ViewSonic VX2428 hoặc VX2428J sẽ nhận tai nghe gaming RGB Rapoo VH500C trị giá 650.000 VND.\nMua màn hình gaming ViewSonic VX2728 hoặc VX2728J sẽ nhận chuột gaming RGB Rapoo VT200 trị giá 690.000 VND.\nMua màn hình gaming ViewSonic VX2728-2K hoặc VX2728J-2K sẽ nhận quà tặng tay cầm gaming Rapoo V600S trị giá 875.000 VND."
+}]

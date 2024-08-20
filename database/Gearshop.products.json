@@ -1,0 +1,459 @@
+[{
+  "_id": {
+    "$oid": "66950b9a4e315bb182efcd42"
+  },
+  "name": "Laptop Lenovo Ideapad 5 Pro| 16.0inch 2.5K WQXGA - R5 6600HS - RAM 16GB - SSD 512GB - GTX 1650",
+  "des": "Laptop Lenovo Ideapad 5 Pro 16ARH7 - 82SN003MVN trang bị một kiểu thiết kế đơn giản, nhưng lại mang đến vẻ đẹp vô cùng tinh tế và trang nhã. Với thiết kế này, chiếc laptop mang lại một vẻ đẹp “trường tồn” với thời gian, không bị lỗi mốt, bên cạnh đó còn phù hợp với nhiều môi trường làm việc khác nhau từ văn phòng, doanh nghiệp đến trường học tùy vào cách sử dụng của người dùng.",
+  "hot": 0,
+  "id": 1,
+  "price": 27990000,
+  "categoryId": "1",
+  "images": "prodLap1.png",
+  "relatedimages": [
+    "prodLap1related1.png",
+    "prodLap1related2.png",
+    "prodLap1.png",
+    "prodLap1related4.png",
+    "prodLap1related5.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6695120c4e315bb182efcd59"
+  },
+  "name": "Tai nghe EPOS Sennheiser GSP600",
+  "des": "Được thiết kế để mang lại hiệu suất cạnh tranh vượt trội, GSP 600 mang lại độ trung thực âm thanh cao và tính chân thực đặc biệt với độ chính xác tuyệt đối.",
+  "hot": 0,
+  "id": 2,
+  "price": 3515000,
+  "categoryId": "2",
+  "images": "prodHP1.png",
+  "relatedimages": [
+    "prodHP1.png",
+    "prodHP1related1.png",
+    "prodHP1related2.png",
+    "prodHP1related3.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6695125f4e315bb182efcd5a"
+  },
+  "name": "Chuột Razer DeathAdder V3 Pro | Trắng | Không dây",
+  "des": "Razer DeathAdder V3 Pro là một thiết kế chuột form cầm công thái học cùng kết nối không dây cho bạn cảm giác thoải mái khi sử dụng trong thời gian dài. Sở hữu thời lượng pin “Trâu” lên đến 90 tiếng sử dụng liên tục.",
+  "hot": 0,
+  "id": 3,
+  "price": 3090000,
+  "categoryId": "3",
+  "images": "prodMouse1.png",
+  "relatedimages": [
+    "prodMouse1.png",
+    "prodMouse1related1.png",
+    "prodMouse1related2.png",
+    "prodMouse1related3.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669512814e315bb182efcd5b"
+  },
+  "name": "Màn hình MSI PRO MP221 Full HD 60Hz",
+  "des": "Với độ phân giải Full HD (1920×1080) mang lại  những trải nghiệm thưởng thức video phát trực tuyến & video mượt mà nhất và trải nghiệm sự sắc nét, chân thực.Màn hình chống lóa giúp người dùng xem màn hình dễ chịu hơn và giảm mỏi mắt khi làm việc trong thời gian dài, hoặc làm việc trong điều kiện ánh sáng mạnh",
+  "hot": 1,
+  "id": 4,
+  "price": 2690000,
+  "categoryId": "4",
+  "images": "prodScreen1.png",
+  "relatedimages": [
+    "prodScreen1.png",
+    "prodScreen1related1.png",
+    "prodScreen1related2.png",
+    "prodScreen1related3.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6695140d4e315bb182efcd61"
+  },
+  "name": "Bàn phím cơ DAREU A98 PRO | TRIPLE-MODE | Timeless",
+  "des": "Bàn phím cơ DAREU A98 PRO với layout 98 nhỏ gọn và pin lên đến 4000mAh dễ dàng giúp bạn mang đi khắp mọi nơi phù hợp cho bạn vừa đi làm vừa đi học.",
+  "hot": 0,
+  "id": 5,
+  "price": 2490000,
+  "categoryId": "5",
+  "images": "prodKB1.png",
+  "relatedimages": [
+    "prodKB1.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6695156f4e315bb182efcd68"
+  },
+  "name": "Laptop Lenovo IdeaPad Gaming 3 15ARH7 | R7-6800H - 8GB - 512GB - RTX 3050",
+  "des": "Lenovo IdeaPad Gaming 3 15ARH7 - 82SB007HVN được cung cấp sức mạnh đến bộ vi xử lý AMD Ryzen 7 6800H. Đây là bộ vi xử lý mới nhất của của AMD dành cho Laptop, con chip này được xây dựng trên tiến trình 6nm với tốc độ hoạt động nhanh chóng, cũng như không tỏa ra quá nhiều nhiệt khiến máy nóng lên.",
+  "hot": 0,
+  "id": 6,
+  "price": 28490000,
+  "categoryId": "1",
+  "images": "prodLap2.png",
+  "relatedimages": [
+    "prodLap2.png",
+    "prodLap2related1.png",
+    "prodLap2related2.png",
+    "prodLap2related3.png",
+    "prodLap2related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669515a34e315bb182efcd69"
+  },
+  "name": "Tai nghe Razer Hammerhead Pro HyperSpeed | Không dây",
+  "des": "Thiết kế tai nghe đến từ hãng công nghệ nổi tiếng Razer bắt mắt đầy tinh tế dễ dàng học tập và làm việc",
+  "hot": 0,
+  "id": 7,
+  "price": 4890000,
+  "categoryId": "2",
+  "images": "prodHP2.png",
+  "relatedimages": [
+    "prodHP2.png",
+    "prodHP2related1.png",
+    "prodHP2related2.png",
+    "prodHP2related3.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669515ee4e315bb182efcd6a"
+  },
+  "name": "Chuột Corsair NIGHTSABRE RGB",
+  "des": "Corsair là một công ty phần cứng và thiết bị ngoại vi máy tính của Mỹ có trụ sở tại Fremont, California. Theo thời gian, Corsair đã ngày càng đa dạng hóa những mặt hàng của mình, lấn sân sang nhóm sản phẩm phụ kiện máy tính.",
+  "hot": 0,
+  "id": 8,
+  "price": 3590000,
+  "categoryId": "3",
+  "images": "prodMouse2.png",
+  "relatedimages": [
+    "prodMouse2.png",
+    "prodMouse2related1.png",
+    "prodMouse2related2.png",
+    "prodMouse2related3.png",
+    "prodMouse2related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669516094e315bb182efcd6b"
+  },
+  "name": "Màn hình ASUS ROG XG32VC 32inch 170Hz",
+  "des": "Với độ phân giải WQHD (2560 x 1440) giúp màn hình tận dụng được hơn 77% không gian chơi game trên màn hình so với màn hình Full HD tiêu chuẩn (1920 x 1080). Ngoài ra, màn hình này còn được trang bị độ tương phản đáng kinh ngạc 3000:1.",
+  "hot": 0,
+  "id": 9,
+  "price": 13790000,
+  "categoryId": "4",
+  "images": "prodScreen2.png",
+  "relatedimages": [
+    "prodScreen2.png",
+    "prodScreen2related1.png",
+    "prodScreen2related2.png",
+    "prodScreen2related3.png",
+    "prodScreen2related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669516534e315bb182efcd6c"
+  },
+  "name": "Bàn phím không dây DareU EK868 (Bluetooth - mini 68 keys)",
+  "des": "Sản phẩm bàn phím cơ DareU EK868 được thiết kế với độ linh hoạt dễ dàng khi sử dụng cả có dây (wired - Usb TypeC) và không dây (Wireless - Bluetooth 5.1). Với công nghệ mới nhất, bàn phím sẽ dễ dàng chuyển giữa các thiết bị kết nói dễ dàng và giữa 2 hệ điều hành Mac và Windows ",
+  "hot": 0,
+  "id": 10,
+  "price": 1160000,
+  "categoryId": "5",
+  "images": "prodKB2.png",
+  "relatedimages": [
+    "prodKB2.png",
+    "prodKB2related1.png",
+    "prodKB2related2.png",
+    "prodKB2related3.png",
+    "prodKB2related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669517df4e315bb182efcd6d"
+  },
+  "name": "Laptop Lenovo Yoga Slim 7 Pro 14IHU5 O | i7 11370H - RAM 16GB - 1TB SSD",
+  "des": "Laptop Lenovo Yoga Slim 7 Pro vốn là một dòng sản phẩm được sinh ra và định hình trong phân khúc laptop doanh nhân cao cấp nên khi xét về mặt thiết kế và chất lượng hoàn thiện thì những gì mà Laptop Lenovo Yoga Slim 7 Pro 14IHU5 O - 82NH008TVN có thể mang lại cho người dùng chỉ gói gọn trong hai từ “đẳng cấp và sang trọng”.",
+  "hot": 1,
+  "id": 11,
+  "price": 36990000,
+  "categoryId": "1",
+  "images": "prodLap3.png",
+  "relatedimages": [
+    "prodLap3.png",
+    "prodLap3related1.png",
+    "prodLap3related2.png",
+    "prodLap3related3.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669517fb4e315bb182efcd6e"
+  },
+  "name": "Tai nghe Corsair Virtuoso RGB Pearl | Không dây",
+  "des": "Tai nghe Corsair là sản phẩm công nghệ đến từ thương hiệu Corsair của Mỹ. Hiện nay, tai nghe Corsair đã xuất hiện tại nhiều quốc gia trên thế giới và chiếm trọn niềm tin của những người dùng yêu chuộng công nghệ.",
+  "hot": 0,
+  "id": 12,
+  "price": 2950000,
+  "categoryId": "2",
+  "images": "prodHP3.png",
+  "relatedimages": [
+    "prodHP3.png",
+    "prodHP3related1.png",
+    "prodHP3related2.png",
+    "prodHP3related3.png",
+    "prodHP3related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669518124e315bb182efcd6f"
+  },
+  "name": "Chuột Razer Naga V2 Pro",
+  "des": "Ở bên ngoài, có vẻ như Razer Naga V2 Pro không có nhiều thay đổi. Là một người dùng nhiệt tình của Razer Naga Pro, con chuột ngay lập tức cho cảm giác thoải mái và quen thuộc trong lòng bàn tay của chúng tôi.",
+  "hot": 1,
+  "id": 13,
+  "price": 4690000,
+  "categoryId": "3",
+  "images": "prodMouse3.png",
+  "relatedimages": [
+    "prodMouse3.png",
+    "prodMouse3related1.png",
+    "prodMouse3related2.png",
+    "prodMouse3related3.png",
+    "prodMouse3related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669518344e315bb182efcd70"
+  },
+  "name": "Màn hình Samsung LC27RG50FQE 27inch 240Hz",
+  "des": "Với Màn hình Samsung LC27RG50FQE bạn sẽ dễ dàng tận hưởng từng chuyển động chiến đấu mượt mà trên màn hình cong 1500R hoàn mỹ, với tần số quét siêu tốc đạt 240Hz từ công nghệ RapidCurve™ tuyệt đỉnh. Nhanh chóng nắm bắt mọi chuyển động, dễ dàng chiến thắng mọi trận chiến.",
+  "hot": 0,
+  "id": 14,
+  "price": 7910000,
+  "categoryId": "4",
+  "images": "prodScreen3.png",
+  "relatedimages": [
+    "prodScreen3.png",
+    "prodScreen3related1.png",
+    "prodScreen3related2.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6695184d4e315bb182efcd71"
+  },
+  "name": "Bàn Phím ADATA XPG SUMMONER Cherry MX Sliver Switch",
+  "des": "Phần mềm XPG PRIME tạo ra các hiệu ứng ánh sáng RGB rực rỡ tùy biến theo sở thích của chính bạn. Ngoài ra, bạn có thể lập trình gán chức năng phím tổng cho phím bấm bất kỳ, theo đó mọi thứ sẽ được vận hành chỉ bằng một cú bấm.\n",
+  "hot": 0,
+  "id": 15,
+  "price": 2700000,
+  "categoryId": "5",
+  "images": "prodKB3.png",
+  "relatedimages": [
+    "prodKB3.png",
+    "prodKB3related1.png",
+    "prodKB3related2.png",
+    "prodKB3related3.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6695186d4e315bb182efcd72"
+  },
+  "name": "Laptop Lenovo IdeaPad Gaming 3 | 15.6inch - 120Hz - i5-11320H - RAM 8GB - SSD 512GB - RTX 3050",
+  "des": "Laptop Lenovo IdeaPad Gaming 3 15IHU6 - 82K101B5V là một trong những series laptop chơi game thế hệ mới của nhà Lenovo. Chiếc Laptop gây ấn tượng mạnh với ngoại hình siêu mỏng nhẹ, gây ấn tượng từ cái nhìn đầu tiên",
+  "hot": 0,
+  "id": 16,
+  "price": 22290000,
+  "categoryId": "1",
+  "images": "prodLap4.png",
+  "relatedimages": [
+    "prodLap4.png",
+    "prodLap4related1.png",
+    "prodLap4related2.png",
+    "prodLap4related3.png",
+    "prodLap4related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669518894e315bb182efcd73"
+  },
+  "name": "Tai nghe Razer Kraken V3 Pro Wireless",
+  "des": "Razer Kraken V3 Pro Wireless là người anh em không dây của Razer V3 HyperSense. Giống như mô hình này, Razer Kraken V3 Pro Wireless có ánh sáng RGB có thể tùy chỉnh và tính năng âm trầm xúc giác HyperSense mà bạn có thể sử dụng để thêm rung khi chơi game.",
+  "hot": 0,
+  "id": 17,
+  "price": 5699000,
+  "categoryId": "2",
+  "images": "prodHP4.png",
+  "relatedimages": [
+    "prodHP4.png",
+    "prodHP4related1.png",
+    "prodHP4related2.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669518ab4e315bb182efcd74"
+  },
+  "name": "Chuột không dây Corsair DARK CORE RGB PRO",
+  "des": "Được trang bị cổng USB-C giúp bạn có thế vừa sạc vừa sử dụng.Thời lượng Pin mang lại tầm 36 giờ với kết nối 2.4GHz và khoảng 50 giờ với kết nối Bluetooth",
+  "hot": 0,
+  "id": 18,
+  "price": 1990000,
+  "categoryId": "3",
+  "images": "prodMouse4.png",
+  "relatedimages": [
+    "prodMouse4.png",
+    "prodMouse4related1.png",
+    "prodMouse4related2.png",
+    "prodMouse4related3.png",
+    "prodMouse4related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669518c64e315bb182efcd75"
+  },
+  "name": "Màn hình MSI Optix MAG274QRX | 27 inch",
+  "des": "Dòng MAG được ra đời thông qua quá trình kiểm tra chất lượng nghiêm ngặt và được thiết kế để trở thành biểu tượng của sự chắc chắn và bền bỉ. Tập trung vào việc cung cấp trải nghiệm người dùng tốt nhất, sê-ri MAG có quy trình cài đặt đơn giản cùng với giao diện người dùng thân thiện khiến nó trở thành lựa chọn tốt nhất cho các game thủ mới bắt đầu.",
+  "hot": 0,
+  "id": 19,
+  "price": 10490000,
+  "categoryId": "4",
+  "images": "prodScreen4.png",
+  "relatedimages": [
+    "prodScreen4.png",
+    "prodScreen4related1.png",
+    "prodScreen4related2.png",
+    "prodScreen4related3.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669518e84e315bb182efcd76"
+  },
+  "name": "Bàn phím IQUNIX F65 Graffiti Diary | RGB - 3 Mode - Aluminum",
+  "des": "Bàn phím IQUNIX F65 Graffiti Diary là một sản phẩm cao cấp đến từ nhà IQUNIX và phần khung nhôm được làm xung quanh vỏ giúp gia tăng được sự cao cấp và chất lượng của sản phẩm. Kích thước sản phẩm tối ưu với layout 65% - tương đương 67 phím. Được trang bị keycap với chất liệu PBT, được đánh giá cao hơn rất nhiều so với keycap ABS cùng tầm giá. ",
+  "hot": 1,
+  "id": 20,
+  "price": 3890000,
+  "categoryId": "5",
+  "images": "prodKB4.png",
+  "relatedimages": [
+    "prodKB4.png",
+    "prodKB4related1.png",
+    "prodKB4related2.png",
+    "prodKB4related3.png",
+    "prodKB4related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669519024e315bb182efcd77"
+  },
+  "name": "LENOVO Laptop Gaming Lenovo Legion 5 15ARH7 | R5 6600H - 8GB - 512GB - RTX 3050",
+  "des": "Chiếc Laptop Gaming Legion 5 15ARH7 - 82RE002VVN này sở hữu bề ngoài khá tối giản và được trau chuốt rất cẩn thận từng phần. Vỏ laptop có màu Mineral Grey Aluminium, đem lại cảm giác khi chạm vào rất mịn và sang trọng. Lớp vỏ case này giúp máy có thể sử dụng máy lâu dài, bền bỉ, hạn chế bong tróc sơn hay bám dấu vân tay.",
+  "hot": 0,
+  "id": 21,
+  "price": 32990000,
+  "categoryId": "1",
+  "images": "prodLap5.png",
+  "relatedimages": [
+    "prodLap5.png",
+    "prodLap5related1.png",
+    "prodLap5related2.png",
+    "prodLap5related3.png",
+    "prodLap5related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6695191c4e315bb182efcd78"
+  },
+  "name": "Tai nghe Corsair Void Elite RGB USB-Carbon\n",
+  "des": "Tai nghe chơi game có dây này  kết nối qua 3,5mm với PC hoặc bảng điều khiển mà bạn chọn. Nó được làm chủ yếu bằng nhựa, nhưng vẫn cho cảm giác khá chắc chắn—có một sức nặng ở đây mà bạn thường không nhận được từ những chiếc tai nghe không có nhiều kim loại. ",
+  "hot": 0,
+  "id": 22,
+  "price": 5490000,
+  "categoryId": "2",
+  "images": "prodHP5.png",
+  "relatedimages": [
+    "prodHP5.png",
+    "prodHP5related1.png",
+    "prodHP5related2.png",
+    "prodHP5related3.png",
+    "prodHP5related4.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669519424e315bb182efcd79"
+  },
+  "name": "Chuột Razer Cobra Ambidextrous Pro | 3 Mode",
+  "des": "Độ nhạy phù hợp cho tuyển thủ cũng như giá cả phải chăng là điều khiến cho các tín đồ chơi game săn đón dòng chuột này",
+  "hot": 0,
+  "id": 23,
+  "price": 2790000,
+  "categoryId": "3",
+  "images": "prodMouse5.png",
+  "relatedimages": [
+    "prodMouse5.png",
+    "prodMouse5related1.png",
+    "prodMouse5related2.png",
+    "prodMouse5related3.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669519574e315bb182efcd7a"
+  },
+  "name": "Màn hình Gigabyte G27FC A | 27\" - FullHD - VA - 170Hz - Cong 1500R",
+  "des": "Gigabyte G27FC rất phù hợp để chơi game. Nó có tốc độ làm mới cao 170Hz với hỗ trợ G-SYNC gốc. Nó có thời gian phản hồi rất nhanh dẫn đến chuyển động mượt mà và độ trễ đầu vào cực kỳ thấp.",
+  "hot": 0,
+  "id": 24,
+  "price": 4399000,
+  "categoryId": "4",
+  "images": "prodScreen5.png",
+  "relatedimages": [
+    "prodScreen5related1.png",
+    "prodScreen5related2.png",
+    "prodScreen5related3.png",
+    "prodScreen5related4.png",
+    "prodScreen5.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6695195d4e315bb182efcd7b"
+  },
+  "name": "Bàn phím IQUNIX Q66 Summer Tour | Không dây - RGB",
+  "des": "Một con bàn phím khủng trong tầm giá, có màn hình LED chạy chữ, đồng thời thiết kế nhưng hoa văn bắt mắt khiến người dùng thích thú",
+  "hot": 0,
+  "id": 25,
+  "price": 3550000,
+  "categoryId": "5",
+  "images": "prodKB5.png",
+  "relatedimages": [
+    "prodKB5.png",
+    "prodKB5related1.png",
+    "prodKB5related2.png",
+    "prodKB5related3.png",
+    "prodKB5related4.png"
+  ]
+}]

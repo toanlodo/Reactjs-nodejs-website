@@ -19,6 +19,7 @@ export const Home = () => {
 
     const handleAddToCart=(product)=>{
         dispatch(addToCart(product));
+        window.alert('Sản phẩm đã được thêm vào giỏ hàng! ')
     };
     useEffect(() => {
         const fetchProducts = async () => {

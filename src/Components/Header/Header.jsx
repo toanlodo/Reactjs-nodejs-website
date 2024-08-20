@@ -61,7 +61,7 @@ export const Header = () => {
                                         </span>
                                         <ul className="dropdown-menu">
                                             <li>
-                                                <Link to="/profile" className='dropdown-item'>
+                                                <Link to="/useraccount" className='dropdown-item'>
                                                     Thông tin tài khoản
                                                 </Link>
                                             </li>

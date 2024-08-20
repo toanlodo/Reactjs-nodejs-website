@@ -26,6 +26,7 @@ export const Login = () => {
                 alert('Đăng nhập thành công');
                 localStorage.setItem('user',JSON.stringify(data.user))
                 navigate('/');
+                window.location.reload();
 
             } else{
                 setError(data.message);

@@ -142,9 +142,36 @@ app.post('/login', async(req,res)=>{
             message:'Đăng nhập thành công',
             user: {
                 username:user.username,
+                password:user.password,
+                email:user.email,
+                address:user.address,
+                phone:user.phone,
+                fullname:user.fullname,
             }
         });
     }catch(error){
         res.status(500).json({message:'Lỗi máy chủ'});
+    }
+});
+
+
+app.put('/user/:username', async (req, res) => {
+    const { username } = req.params;
+    const { fullname, password, email, address, phone } = req.body;
+
+    try {
+        const user = await User.findOneAndUpdate(
+            { username },
+            { fullname, password, email, address, phone },
+            { new: true }
+        );
+
+        if (!user) {
+            console.log('User not found');
+        }
+        res.status(200).json({ message: 'Cập nhật thông tin thành công', user });
+    } catch (error) {
+        console.error('Server error:', error);
+        res.status(500).json({ message: 'Server error' });
     }
 });
